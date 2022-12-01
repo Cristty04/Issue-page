@@ -1,0 +1,203 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    
+    
+}
+
+body {
+    margin:0;
+}
+
+header {
+    font: size 0;
+    /*border-botton: 1px solid black; */
+    box-shadow: 0px 0px 10px grey;
+}
+
+header {
+    display: block;
+    width: 100%;
+    /* border 1px solid red: */
+    font-size: 1rem;
+    padding: 22px;
+
+
+}
+
+#image {
+  display: inline-block;
+  width: 100%;
+}
+
+#issuu{
+    margin-top: 20px;
+}
+
+#image-container {
+     display: inline-block;
+    width: 50%;
+}
+
+#alredy{
+    padding-top: 30px;
+    padding-right: 25px;
+}
+#signin{
+    color:blue;
+    
+   
+    
+}
+#user {
+  text-align: end;
+  bottom: 5px;
+  padding-right: 80px;
+  padding-top: 0;
+  
+}
+
+#allreadyanuser {
+    display: inline-block;
+    width: 49%;
+    text-align: end;
+}
+
+img {
+    padding-left: 2cm;
+  width: 250px;
+}
+
+h1 {
+    padding-left: 6cm;
+    padding-top: 2cm;
+    font-size: 30px;
+}
+
+#main {
+    padding-left: 6cm;
+    padding-top: 1px;
+    
+}
+#google{
+    background-color: blue;
+    color:white; 
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+}
+#google img{
+    height: 20px;
+    width: 30px;
+    padding-left: 2%;
+    padding-right: 2%;  
+
+  }
+#go {
+    padding-bottom: 1px;
+    color: antiquewhite;
+}
+
+#facebook {
+    background-color: #05058a;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+#facebook img {
+    height: 20px;
+    width: 30px;
+    padding-left: 1%;
+    padding-right: 2%;   
+    
+}
+#face{
+  padding: 10px;
+  color: antiquewhite;
+}
+
+#p {
+    padding-left: 6cm;
+    padding-top: 1px;
+    font-size: 20px;
+}
+
+form {
+    padding-left: 6cm;
+    padding-top: 1px;
+    font-size: 15px; 
+    
+}
+input {
+    padding-right: 8cm;
+}
+
+#email {
+    
+    font-weight: bold; 
+}
+
+#password {
+    font-weight: bold;
+}
+#account {
+    border: 5px dashed rgb(184, 181, 181);
+    border-radius: 12px;
+    margin-top: 2cm; 
+    margin-left: 6cm;
+    font-size: 15px;
+    color: rgb(184, 181, 181); 
+    padding: 5px 5px;
+    
+    
+}
+#ref{
+    color:rgb(184, 181, 181)
+    
+}
+#span2{
+    color: rgb(36, 104, 182)
+    
+}
+#span4{
+    color: rgb(36, 104, 182);
+}
+
+#foot {
+    font: size 0;
+    /*border: 1px solid black; */
+    box-shadow: 0px 0px 10px rgb(165, 164, 164);
+    display: block;
+    width: 100%;
+    /* border 1px solid red: */
+    font-size: 1rem;
+    padding: 22px;
+    
+}
+
+#Inc {
+    padding-left: 4cm;
+    margin-top: 2%;
+    
+}
+#Terms{
+    padding-left: 2cm;
+    text-emphasis-color: grey;
+    
+    
+}
+
+#Privacy{
+    padding-left: 1%;
+   
+}
+
+#DMCA {
+    padding-left: 1%;
+   
+}
